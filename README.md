@@ -23,20 +23,20 @@ This project focuses on heuristic search algorithms, including:
 *   **Graph Problem (Heuristic):**  Implements heuristic search algorithms on graph structures.
 *   **Eight Puzzle:** Solves the Eight Puzzle using heuristic search, calculating the Manhattan distance as the heuristic.
 
-### Project 3: Genetic Algorithms
-
-This project explores genetic algorithms for optimization problems:
-
-*   **N-Queens Problem (Genetic):** Solves the N-Queens problem using a genetic algorithm.
-*   **Function Optimization:**  Optimizes a mathematical function using a genetic algorithm.
-
-### Project 4:  Adversarial Search (Game Playing)
+### Project 3: Adversarial Search (Game Playing)
 
 This project delves into adversarial search techniques used in game playing:
 
 *   **Minimax Algorithm:** Implements the Minimax algorithm, a decision-making algorithm for minimizing the possible loss in a worst-case scenario.
 *   **Alpha-Beta Pruning:**  Implements Alpha-Beta Pruning, an optimization technique for the Minimax algorithm that reduces the number of nodes evaluated in the search tree.
 *   **Game Implementation (e.g., Tic-Tac-Toe, Connect Four):**  Applies the Minimax algorithm and Alpha-Beta Pruning to a specific game (the actual game implemented might vary).
+
+### Project 4: Genetic Algorithms
+
+This project explores genetic algorithms for optimization problems:
+
+*   **N-Queens Problem (Genetic):** Solves the N-Queens problem using a genetic algorithm.
+*   **Function Optimization:**  Optimizes a mathematical function using a genetic algorithm.
 
 
 ## Build Instructions
