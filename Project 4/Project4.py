@@ -1,21 +1,10 @@
-########################################################
-#
-# CMPSC 441: Homework 4
-#
-########################################################
-
-
-
-student_name = 'Rohan Mankame'
-student_email = 'rym5387@psu.edu'
-
 
 
 ########################################################
 # Import
 ########################################################
 
-from hw4_utils import *
+from Proj4_utils import *
 import math
 import random
 
