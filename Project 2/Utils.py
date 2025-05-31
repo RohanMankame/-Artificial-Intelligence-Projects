@@ -1,13 +1,4 @@
-########################################################
-#
-# CMPSC 441: Homework 2
-#
-########################################################
 
-
-#
-# DO NOT CHANGE ANYTHING IN THIS FILE.
-# - Your submission will be tested using this file
 #   in its original content.
 #
 
