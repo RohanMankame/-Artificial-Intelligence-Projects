@@ -1,20 +1,5 @@
-########################################################
-#
-# CMPSC 441: Homework 1
-#
-########################################################
+
 from fractions import Fraction
-
-########################################################
-# 0. Your name and email address
-########################################################
-
-student_name = 'Rohan Yashodhan Mankame'
-student_email = 'rym5387@psu.edu'
-
-
-
-
 
 ########################################################
 ### 1. Sequences
@@ -253,9 +238,6 @@ class Fraction():
     def __call__(self):
         return self.numerator / self.denominator
 
-#Dosent work
-    def simplify(self):
-            pass
 
 
 #printing memory address instead of string value
